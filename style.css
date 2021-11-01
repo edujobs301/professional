@@ -18,19 +18,19 @@ h1{
     margin-bottom: 10%;
     
 }
-.header-part img {
+.header-right img {
     width: 80%;
 }
 
 
 .header-left{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 
 .header-right{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 .link-color{
     text-decoration: none;
@@ -54,7 +54,7 @@ h1{
 
 .container img{
     width: 80%;
-    padding-left: 10%;
+    padding-right: 10%;
 }
 .container-left{
     width: 50%;
